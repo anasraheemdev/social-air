@@ -1,6 +1,6 @@
 # Airogram
 
-A modern social media platform built with React.js and Tailwind CSS. Experience it live at [https://social-air.vercel.app/](https://social-air.vercel.app/)
+A modern social media platform built with React.js and Tailwind CSS. Experience it live at [https://social-air-three.vercel.app/](https://social-air-three.vercel.app/)
 
 ## 🚀 Features
 
@@ -124,7 +124,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 Anas Raheem
-- GitHub: [@anasraheem](https://github.com/anasraheem)
+- GitHub: [@anasraheemdev](https://github.com/anasraheemdev)
 
 ## 🌟 Acknowledgments
 
